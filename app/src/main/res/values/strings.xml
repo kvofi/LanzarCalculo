@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LanzarCalculo</string>
+    <string name="calcular">Calcular</string>
+    <string name="salir">Salir</string>
+    <string name="nombre">Escribe tu nombre.</string>
+    <string name="multi">Multiplicar x2</string>
+    <string name="numero">Numero:</string>
+    <string name="resultado">Resultado:</string>
+</resources>
